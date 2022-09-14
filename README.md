@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AldianAJ
+- 🔭 I’m currently studying on Dynamic University Surabaya Indonesia
+- 🌱 I’m currently learning Mobile Development
+- 📫 How to reach me aldianarfiansyah@gmail.com
+- ⚡ Fun fact I am very interested in programming
