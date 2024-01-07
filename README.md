@@ -36,7 +36,7 @@ class About extends Me {
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcc2f?style=for-the-badge&logo=firebase&logoColor=f59f2c)](https://firebase.google.com/)
+![Firebase](https://img.shields.io/badge/Firebase-ffcc2f?style=for-the-badge&logo=firebase&logoColor=f59f2c)
 
 ### 📊 GitHub Stats:
 ![AldianAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldianAJ&show_icons=true&theme=graywhite)
