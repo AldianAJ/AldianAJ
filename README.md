@@ -75,3 +75,9 @@ class About extends Me {
 
   ![AldianAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldianAJ&show_icons=true&theme=graywhite)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldianAJ&layout=compact)
+
+<br>
+
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture><b> PROFILE VIEW</b>
+
+  <img src="https://profile-counter.glitch.me/AldianAJ/count.svg?"  />
