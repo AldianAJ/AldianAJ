@@ -1,22 +1,23 @@
 # Who is me? <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture>
 
 ```javascript
-class About extends Me {
+class anything about me {
   constructor() {
     this.name = "Aldian Arfiansyah Juniawan";
-    this.pronouns = "He" | "Him";
+    this.pronouns = "He / Him";
     this.address = "Surabaya, Jawa Timur, Indonesia";
     this.university = "Dynamic University Surabaya";
   }
 
-  function getDescriptions(){
+  getDescriptions(){
     return `Hi, my name is ${this.name}, currently I am a student at ${this.university}. I enjoy when writing code, because it's like playing a game`;
   }
 
-  function getFutureGoal(){
+  getFutureGoal(){
     return "To become a programmer";
   }
 }
+
 ```
 
 
@@ -78,6 +79,6 @@ class About extends Me {
 
 <br>
 
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture><b> PROFILE VIEW</b>
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture><b>PROFILE VIEW</b>
 
   <img src="https://profile-counter.glitch.me/AldianAJ/count.svg?"  />
